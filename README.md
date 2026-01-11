@@ -103,17 +103,4 @@ For large features, please open an issue first to discuss the design.
 
 ---
 
-## 📋 License
-
-No `LICENSE` file is included yet. Consider adding a license such as **MIT** before publishing to clarify reuse terms.
-
----
-
-## 📞 Support
-
-Open an issue if you need help, want features, or find bugs. I can also add a sample `.env.example`, Postman collection, or CI workflow on request.
-
----
-
-**Done!** I've replaced the README with an English GitHub-ready version. If you want a different project name in the header (e.g., `campus-market` or `Campus Marketplace`) or want me to add a `.env.example` and `LICENSE`, tell me which option and I'll add them. ✅
 
